@@ -1,0 +1,221 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Islands",
+      "image": "https://i.imgur.com/85xd7xK.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Beach",
+      "image": "https://i.imgur.com/N6sjTbg.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Falls",
+      "image": "https://i.imgur.com/ILAjAFo.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Cave",
+      "image": "https://i.imgur.com/WZAvDRP.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Camp",
+      "image": "https://i.imgur.com/pUTLTmD.jpeg"
+    }
+  ],
+  "explore": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/v6QITWU.jpeg",
+      "title": "Hundred Islands",
+      "location": "Barangay Lucap Alaminos City, Pangasinan",
+      "ratings": 9.8,
+      "price": "₱1,500",
+      "category": "Islands",
+      "description": "The Hundred Islands National Park is a popular tourist destination in the Philippines..."
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/PYIKaVv.jpeg",
+      "title": "Patar Beach",
+      "location": "Barangay Patar Bolinao, Pangasinan",
+      "ratings": 9.8,
+      "price": "₱ 1,000",
+      "category": "Beach",
+      "description": "Patar Beach in Bolinao, Pangasinan, is a stunning destination..."
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/niyUV2r.png",
+      "title": "Bolinao Falls",
+      "location": "Barangay Balingasay Bolinao, Pangasinan",
+      "ratings": 9.8,
+      "price": "₱ 1,900",
+      "category": "Falls",
+      "description": "Bolinao Falls is a series of cascading waterfalls..."
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/MDyubuj.jpeg",
+      "title": "Enchanted Cave",
+      "location": "Bolinao, Pangasinan",
+      "ratings": 9.8,
+      "price": "₱ 2,500",
+      "category": "Cave",
+      "description": "Enchanted Cave is a natural wonder in Pangasinan..."
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/nxd4wzF.jpeg",
+      "title": "Kindao Farmville & Campsite",
+      "location": "Malico, San Nicolas, Pangasinan",
+      "ratings": 9.8,
+      "price": "₱ 900",
+      "category": "Camp",
+      "description": "Welcome to a Hidden Paradise..."
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "You've booked 1 apartment near Hundred Islands",
+      "message": "2 adults",
+      "price": "₱ 1,200",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 2,
+      "title": "You've cancelled 1 apartment at Kindao Farmville & Campsite",
+      "message": "4 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 3,
+      "title": "You've booked 1 cottage at Masamirey Cove Resort",
+      "message": "2 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 4,
+      "title": "You've booked 1 apartment at Kindao Farmville & Campsite",
+      "message": "2 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 5,
+      "title": "You've cancelled 1 apartment at Kindao Farmville & Campsite",
+      "message": "4 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 6,
+      "title": "You've booked 1 apartment at Kindao Farmville & Campsite",
+      "message": "2 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 7,
+      "title": "You've booked 1 apartment at Kindao Farmville & Campsite",
+      "message": "2 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 8,
+      "title": "You've cancelled 1 apartment at Kindao Farmville & Campsite",
+      "message": "4 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    },
+    {
+      "id": 9,
+      "title": "You've booked 1 apartment at Kindao Farmville & Campsite",
+      "message": "2 adults",
+      "price": "₱ 900",
+      "timestamp": "July 22 - 23, 2025"
+    }
+  ],
+  "bookmark": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/PYIKaVv.jpeg",
+      "title": "Patar Beach",
+      "location": "Bolinao, Pangasinan",
+      "description": "Patar Beach in Bolinao, Pangasinan, is a popular destination known for its white sand and clear blue waters. It's a long stretch of beach, with some parts designated as public and others with resorts lining the shore. The beach offers a relaxing atmosphere and is suitable for both day trips and overnight stays."
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/85xd7xK.jpeg",
+      "title": "Hundred Islands",
+      "location": "Barangay Lucap Alaminos City, Pangasinan",
+      "description": "The Hundred Islands National Park in Alaminos, Pangasinan, Philippines, is a collection of 124 islands and islets, though some sources indicate 123 at high tide. These islands, believed to be over two million years old, are known for their unique mushroom-like shapes formed by the action of ocean waves and erosion. The park is a popular tourist destination offering various activities like island hopping, snorkeling, and cave exploration."
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/MDyubuj.jpeg",
+      "title": "Enchanted Cave",
+      "location": "Bolinao, Pangasinan",
+      "description": "The Enchanted Cave in Bolinao, Pangasinan, is a natural cave known for its unique turquoise-colored underground pool. It's located within a privately-owned resort and is a popular tourist destination due to its beauty and the opportunity to swim in the cave's cool, clear waters."
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/niyUV2r.png",
+      "title": "Bolinao Falls",
+      "location": "Bolinao, Pangasinan",
+      "description": "Bolinao Falls are a series of waterfalls in Bolinao, Pangasinan, Philippines, known for their cascading waters and the refreshing pools they form. Bolinao Falls 1 is a popular spot with a cafe, food, and a pool suitable for swimming, including a designated area for non-swimmers with life jackets according to Tripadvisor.com. The falls are surrounded by lush forest and offer a scenic view of water cascading down the rocks into the clear pools."
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/nxd4wzF.jpeg",
+      "title": "Kindao Farmville & Campsite",
+      "location": "Malico, San Nicolas, Pangasinan",
+      "description": "Welcome to a Hidden Paradise⛰️🏞️ The mountains are calling and we must go! Camp na! Malico, San Nicolas, Pangasinan Summer Barangay Capital of Pangasinan."
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "image": "https://i.imgur.com/lKpBBQT.jpeg",
+      "title": "Sea Residences Hotel by Mia Tresenio",
+      "price": "₱ 2,630.49",
+      "date": "Aug 15 - 18 2025",
+      "reserved": "Apartment",
+      "status": "Active"
+    },
+    {
+      "id": "4",
+      "image": "https://i.imgur.com/pnEN0XW.jpeg",
+      "title": "Campfire in Alaminos City by Taylor Swift",
+      "price": "₱ 900",
+      "date": "Aug 19 - 21 2025",
+      "reserved": "Tent",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "image": "https://i.imgur.com/mV6aRyg.jpeg",
+      "title": "Masamirey Cove Resort by Myca Batumbakal",
+      "price": "₱ 4,580.69",
+      "date": "Aug 21 - 23 2025",
+      "reserved": "Apartment with pool",
+      "status": "Past"
+    },
+    {
+      "id": "3",
+      "image": "https://i.imgur.com/1AOSf7F.jpeg",
+      "title": "Bolinao Falls Cottages by Lohr Pogi",
+      "price": "₱ 1,500",
+      "date": "Aug 24 - 28 2025",
+      "reserved": "Cottage 3",
+      "status": "Cancelled"
+    }
+  ]
+}
