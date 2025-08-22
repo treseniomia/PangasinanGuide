@@ -1,50 +1,56 @@
-# Welcome to your Expo app 👋
+## PangasinanGuide
+PangasinanGuide is a simple mobile application designed to help tourists and locals explore the top destinations, cultural heritage, and hidden gems of Pangasinan. This project highlights my skills in mobile app development, UI/UX design, and integration of booking features, making it a valuable part of my developer portfolio.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Features
+- Tourist Destinations – Discover popular spots like Hundred Islands, Bolinao beaches, and Alaminos attractions.
+- Booking Integration – Reserve cottages, rooms, or other services from within the app.
+- Search & Filter – Easily find destinations by category or location.
+- Modern UI/UX – Clean, user-friendly design made with React Native.
 
-1. Install dependencies
 
+## Tech Stack
+Frontend: React Native (Expo)
+Backend: Firebase Realtime Database (for data storage & authentication) (soon)
+Tools: Git, GitHub, VS Code, Figma
+
+
+## Purpose
+This project was developed as part of my portfolio to showcase my ability to design and build functional, user-friendly mobile applications. It combines software engineering with a focus on local tourism promotion, specifically in Pangasinan, Philippines.
+
+
+## Installation
    ```bash
-   npm install
+   git clone https://github.com/miatresenio/PangasinanGuide.git
    ```
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+Navigate to the project folder:
+cd PangasinanGuide
 
-In the output, you'll find options to open the app in a
+Install dependencies:
+npm install
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Run the app:
+json-server --watch data/db.json --port 8000
+npx expo start
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
+## Screenshots
 
-```bash
-npm run reset-project
-```
+![App PGIntro](./assets/images/pgintro.png)
+![App SignIn](./assets/images/pgsignin.png)
+![App SignUp](./assets/images/pgsignup.png)
+![App Home](./assets/images/home.png)
+![App Bookmark](./assets/images/bookmark.png)
+![App Active](./assets/images/active.png)
+![App Past](./assets/images/past.png)
+![App Cancelled](./assets/images/cancelled.png)
+![App Notifications](./assets/images/notifs.png)
+![App Profile](./assets/images/profilee.png)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## License
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is licensed under the [MIT License](./LICENSE).
