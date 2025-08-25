@@ -51,6 +51,13 @@ npx expo start
 ![App Profile](./assets/images/profilee.png)
 
 
+
+## Developer
+
+Developed by Mia Myca Tresenio
+
+
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
