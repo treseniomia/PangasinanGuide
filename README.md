@@ -20,7 +20,7 @@ This project was developed as part of my portfolio to showcase my ability to des
 
 ## Installation
    ```bash
-   git clone https://github.com/miatresenio/PangasinanGuide.git
+   git clone https://github.com/treseniomia/PangasinanGuide.git
    ```
 
 
@@ -52,11 +52,4 @@ npx expo start
 
 
 ## Developer
-
 Developed by Mia Tresenio
-
-
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
