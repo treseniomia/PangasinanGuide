@@ -25,15 +25,24 @@ This project was developed as part of my portfolio to showcase my ability to des
 
 
 Navigate to the project folder:
+```bash
 cd PangasinanGuide
+```
+
 
 Install dependencies:
+```bash
 npm install
+```
 
 Run the app:
+```bash
 json-server --watch data/db.json --port 8000
-npx expo start
+```
 
+```bash
+npx expo start
+```
 
 
 ## Screenshots
