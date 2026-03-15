@@ -61,4 +61,9 @@ npx expo start
 
 
 ## Developer
-Developed by Mia Tresenio
+Developed by:
+Mia Tresenio
+
+
+____
+Need to fix the header to all screens
