@@ -56,7 +56,7 @@ npx expo start
 ![App Past](./assets/images/past.png)
 ![App Cancelled](./assets/images/cancelled.png)
 ![App Notifications](./assets/images/notifs.png)
-![App Profile](./assets/images/profilee.png)
+
 
 
 
