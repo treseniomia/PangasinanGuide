@@ -11,7 +11,7 @@ PangasinanGuide is a simple mobile application designed to help tourists and loc
 
 ## Tech Stack
 - Frontend: React Native (Expo)
-- Backend: Firebase Realtime Database (for data storage & authentication) (soon)
+- Backend: Firebase Realtime Database (for data storage & authentication) 
 
 
 ## Purpose
@@ -60,11 +60,3 @@ npx expo start
 
 
 
-## Developer
-Developed by:
-Mia Tresenio
-
-
-____
-Need to fix the header to all screens 
-Need backend 
